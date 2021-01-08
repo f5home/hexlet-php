@@ -1,0 +1,11 @@
+{
+    "name": "f5home/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Игорь",
+            "email": "bush68@yandex.ru"
+        }
+    ],
+    "require": {}
+}
