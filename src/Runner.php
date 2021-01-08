@@ -10,4 +10,3 @@ function run()
 
     return $collection;
 }
-
