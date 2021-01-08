@@ -7,5 +7,7 @@
             "email": "bush68@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^5.5"
+    }
 }
